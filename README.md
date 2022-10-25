@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vepostca
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning in Python and otrhe technology
+- 💞️ I’m looking to collaborate on Python and other tecnology
+- 📫 How to reach me ...
